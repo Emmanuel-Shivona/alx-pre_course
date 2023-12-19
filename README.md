@@ -1,1 +1,1 @@
-My first directory in github
+myfirst readme
